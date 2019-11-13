@@ -1,4 +1,14 @@
-
+ /* Sarah Gilliam
+ * Grading Comments:   Incomplete program - 11/25
+ *  
+ *  RUBRIC Unit 3 = 25 pts
+ * 10 pts - Correct Output (must compile and run)   5/10
+ * 5 pts - Proper Use of Scanner, and decent User Interface  3/5
+ * 3 pts - Proper Use of Return       0/2
+ * 3 pts - Proper User of Parameter   0/2
+ * 2 pts - Pseudocode and comments    1/2   
+ * 2 pts - Consistent Layout and Style following Style Guidelines  2/2
+ */
 import java.util.*;
 /*Main
  * call battleStart
