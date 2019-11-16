@@ -1,4 +1,14 @@
- import java.util.*;
+/********************
+ * Grading Commets:
+ *  Good job.   The code is clean and simple and works.
+ *   Please make sure you indent properly - your closing brackets are off 
+ *   and there are lots of extra spaces.
+ *  The original grade was 11/25 so your new grade is 18/25.
+ *  Nice work.
+ */
+
+
+import java.util.*;
 /*Main
  * call battleStart
  * call damage
